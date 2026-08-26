@@ -1,0 +1,5 @@
+Kohler, P. (2023), Plio-Pleistocene BICYCLE-SE simulations.
+https://doi.org/10.1594/PANGAEA.940169
+
+Pangaea archive:
+https://download.pangaea.de/dataset/940169/files/koehler20230327_5Ma_CO2.tgz

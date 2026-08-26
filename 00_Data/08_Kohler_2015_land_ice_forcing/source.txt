@@ -1,0 +1,5 @@
+Kohler et al. (2015), On the state dependency of equilibrium climate sensitivity during the last 5 million years.
+https://doi.org/10.5194/cp-11-1801-2015
+
+PANGAEA archive:
+https://doi.org/10.1594/PANGAEA.855449

@@ -1,0 +1,5 @@
+Schmelz et al. (2026), Bayesian reconstruction of Cenozoic temperature and sea-level variability.
+https://doi.org/10.22541/essoar.15001916/v1
+
+Github repository:
+https://github.com/wschmelz/bayes_d18Ob_decomp
