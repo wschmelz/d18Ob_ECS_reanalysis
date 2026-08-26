@@ -11,4 +11,4 @@ Code and data used to reproduce analyses of equilibrium climate sensitivity usin
 ## Contents
 - `00_Data/`  datasets used for this reanalysis
 - `01_ECS_calc/`  ECS reanalysis script
-- `02_Bias_test/`  script for the test of sensitivity of ECS estimates to bias in the d18Obenthic decomposition
+- `02_Bias_test/`  script for the test of sensitivity of ECS estimates to bias in the δ¹⁸O_benthic decomposition
